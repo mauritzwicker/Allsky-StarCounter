@@ -1,6 +1,8 @@
 # Allsky-StarCounter
 ### Count the stars in an Allsky-image using different techniques and methods.
 
+# !!! NOT FULLY FUNCTIONING, INDIVIDUAL THINGS WORKING BUT NOT AS A WHOLE REPO !!!
+
 Needs to be changed depending on the type of input data but framework is there.<br/>
 <br/>
 final1_starfind.py -- Star-Finder Method using DAOFIND (Stetson 1987) in Photoutils Library<br/>
